@@ -1,0 +1,12 @@
+*.exe
+*.obj
+*.o
+*.a
+*.dll
+*.out
+build/
+cmake-build-*/
+.idea/
+.vscode/
+*.mgnet
+tmp_*
